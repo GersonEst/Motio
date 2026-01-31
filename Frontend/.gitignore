@@ -1,0 +1,9 @@
+# Node modules
+Frontend/node_modules/
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log
+
