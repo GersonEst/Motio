@@ -1,0 +1,40 @@
+# -----------------------
+# Python / Backend
+# -----------------------
+# Virtual environment
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Flask logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# -----------------------
+# Node / Frontend
+# -----------------------
+# Node modules
+Frontend/node_modules/
+
+# React build
+Frontend/build/
+
+# npm logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# -----------------------
+# Misc / IDEs
+# -----------------------
+# VSCode
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Any local environment files
+.env
